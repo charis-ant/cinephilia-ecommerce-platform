@@ -1,8 +1,16 @@
-# Cinephilia E-Commerce Platform
+<img width="4032" height="893" alt="image" src="https://github.com/user-attachments/assets/e8b7568f-d088-4980-bbf2-7fa0fab12a9c" /># Cinephilia E-Commerce Platform
 
 A REST-based e-commerce application for eco-friendly movie posters inspired by iconic films and independent artists.
 
 The platform supports customer and administrator accounts, product management, shopping carts, wishlists, order processing, and user management through a collection of RESTful web services.
+
+## Related Project
+
+This project represents the Java/JSP implementation of the Cinephilia e-commerce platform.
+
+A second implementation developed for the E-Business course using PHP and MongoDB can be found here:
+
+[link]
 
 ## Overview
 
